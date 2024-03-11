@@ -1,15 +1,17 @@
-# Final-Project-Git
-# Final Project of the course I hope you well
+# Introduction to Git and GitHub
 
-## I will tell about the journey and my goals of the why i choose to do that
+## Simple Interest Calculator
 
-Some of my goals
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
-Make money
-Become a Better Person
-Enjoy my Life
-Learn From other 
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
 ```
 
-10/03/2024
+_© 2024 XYZ, Inc._
+
